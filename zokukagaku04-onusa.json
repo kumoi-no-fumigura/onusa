@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/onusa",
  "yomi": "おおぬさ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（反論）",
+  "era": "天保4年（1833）9月",
+  "author": "中川自休",
+  "desc": "香川景樹の『桂園一枝』を論難した評に、景樹門の中川自休が一つずつ反論したもの。題の「大ぬさ」には、世の人の目の穢れを祓う意をこめたと序にいう。"
+ },
  "editions": [
   {
    "pid": "993382",
